@@ -33,3 +33,7 @@ gRPC는 어디에서나 실행할 수 있는 현대적인 오픈소스 원격 �
 -Grpc.AspNetCore – An ASP.NET Core framework for hosting gRPC services. gRPC on ASP.NET Core integrates with standard ASP.NET Core features like logging, dependency injection (DI), authentication and authorization.<br></br>
 -HttpClient. The client uses new HTTP/2 functionality in .NET Core.<br></br>
 -HttpClientFactory. The client factory allows gRPC clients to be centrally configured and injected into your app with DI.<br></br>
+
+
+<b>참고하기 좋은 블로그</b>
+https://blog.naver.com/n_cloudplatform/221751268831
